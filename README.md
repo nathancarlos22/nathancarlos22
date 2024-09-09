@@ -1,38 +1,48 @@
-## Oii eu sou Nathan 👋
+## Oii, eu sou Nathan 👋
 
-Estou imerso no vibrante campo de Ciência de Dados e Inteligência Artificial como bacharel na Universidade Federal da Paraíba. Tenho uma paixão crescente por enfrentar desafios e revelar histórias escondidas nos dados e desenvolvimento web.
+Sou graduado em Ciência de Dados e Inteligência Artificial pela Universidade Federal da Paraíba, com uma paixão crescente por explorar o mundo dos dados e aplicar técnicas de Machine Learning para resolver problemas complexos. Ao longo da minha jornada, desenvolvi habilidades em análise de dados, visualização e automação de processos, sempre buscando transformar números em histórias impactantes.
 
+### 🚀 Habilidades Técnicas
+
+- **Análise de Dados**: Python, PySpark, SQL, Pandas, NumPy, ETL
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras, AutoML, Redes Neurais, Otimização de Hiperparâmetros
+- **Visualização de Dados**: Power BI, Tableau, Matplotlib, Seaborn, Vega-Lite
+- **Bancos de Dados**: MySQL, PostgreSQL, MongoDB, SQL e NoSQL
+- **Ferramentas de Big Data**: Apache Spark, Databricks
+- **Cloud Computing**: AWS, Docker
+- **Versionamento e Colaboração**: Git, GitHub, Bitbucket
+- **Metodologias Ágeis**: Scrum, Kanban
+
+### 🛠️ Ferramentas e Linguagens:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="keras" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg">
-  <img align="center" alt="postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Keras" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-🐍 Linguagens e Ferramentas:
+### 📊 Storytelling de Dados
 
-Python e SQL correm nas veias do meu código.
-Boa experiencia como front end com ferramentas como React.js, html5 e spring e +.
-Excelente domínio de plataformas de visualização e análise de dados como PowerBI, Tableau, Looker Studio e +.
+Transformar dados em narrativas envolventes é uma das minhas maiores paixões. Seja por meio de relatórios, dashboards interativos ou apresentações visuais, me dedico a tornar os dados acessíveis e atraentes para o público.
 
-📊 Storytelling de Dados: Adoro converter conjuntos de números em narrativas envolventes. Dedico-me a tornar os dados não apenas acessíveis, mas também atraentes, através de um storytelling eficaz.
+### 💻 Experiência com Front-End
 
-👁️ Design de Experiência do Usuário (UX): Com uma forte percepção sobre UX, dou grande importância não só à precisão dos dados, mas também à maneira como eles são apresentados e experienciados pelos usuários.
+Além de trabalhar com análise e ciência de dados, tenho experiência com desenvolvimento front-end utilizando **React.js**, **HTML5**, e **CSS3**, e estou sempre em busca de entregar interfaces funcionais e visualmente agradáveis.
 
-🌱 Além dos Dados: Quando não estou explorando dados, sou um defensor ativo de causas sociais, acreditando na tecnologia como uma força para o bem comum.
+### 🌱 Atualmente:
 
-  ##
- 
-<div> 
+- Explorando novas tecnologias em **Inteligência Artificial** e **Cloud Computing**.
+- Trabalhando em projetos que envolvem automação e visualização de dados.
+
+### 📫 Vamos nos conectar?
+
+<div>
   <a href="https://instagram.com/n4_th" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nathan.carlos2@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathan-carlos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="mailto:nathan.carlos2@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nathan-carlos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
