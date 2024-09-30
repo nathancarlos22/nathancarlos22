@@ -1,17 +1,19 @@
 ## Oii, eu sou Nathan 👋
 
-Sou graduado em Ciência de Dados e Inteligência Artificial pela Universidade Federal da Paraíba, com uma paixão crescente por explorar o mundo dos dados e aplicar técnicas de Machine Learning para resolver problemas complexos. Ao longo da minha jornada, desenvolvi habilidades em análise de dados, visualização e automação de processos, sempre buscando transformar números em histórias impactantes.
+Com bacharelado em Ciência de Dados e Inteligência Artificial pela Universidade Federal da Paraíba, com uma paixão crescente por explorar o mundo da tecnologia e aplicar técnicas de programação, análise de dados e machine learning para resolver problemas complexos. Ao longo da minha jornada, desenvolvi uma variedade de habilidades e técnicas focadas nessas tecnologias, sempre buscando transformar números em insights importantes.
 
 ### 🚀 Habilidades Técnicas
 
-- **Análise de Dados**: Python, PySpark, SQL, Pandas, NumPy, ETL
+- **Análise de Dados**: Python, Excel, PySpark, SQL, Pandas, NumPy, ETL
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras, AutoML, Redes Neurais, Otimização de Hiperparâmetros
-- **Visualização de Dados**: Power BI, Tableau, Matplotlib, Seaborn, Vega-Lite
+- **Visualização de Dados**: Power BI, Tableau, Matplotlib, Seaborn
 - **Bancos de Dados**: MySQL, PostgreSQL, MongoDB, SQL e NoSQL
 - **Ferramentas de Big Data**: Apache Spark, Databricks
 - **Cloud Computing**: AWS, Docker
 - **Versionamento e Colaboração**: Git, GitHub, Bitbucket
 - **Metodologias Ágeis**: Scrum, Kanban
+- **Front-end web**: React.js, HTML5
+- **Back-end**: Java Spring Boot
 
 ### 🛠️ Ferramentas e Linguagens:
 <div style="display: inline_block"><br>
@@ -26,18 +28,13 @@ Sou graduado em Ciência de Dados e Inteligência Artificial pela Universidade F
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-### 📊 Storytelling de Dados
 
-Transformar dados em narrativas envolventes é uma das minhas maiores paixões. Seja por meio de relatórios, dashboards interativos ou apresentações visuais, me dedico a tornar os dados acessíveis e atraentes para o público.
-
-### 💻 Experiência com Front-End
-
-Além de trabalhar com análise e ciência de dados, tenho experiência com desenvolvimento front-end utilizando **React.js**, **HTML5**, e **CSS3**, e estou sempre em busca de entregar interfaces funcionais e visualmente agradáveis.
 
 ### 🌱 Atualmente:
 
 - Explorando novas tecnologias em **Inteligência Artificial** e **Cloud Computing**.
 - Trabalhando em projetos que envolvem automação e visualização de dados.
+- Criando artigos e explorando técnicas nas minhas áreas de atuação.
 
 ### 📫 Vamos nos conectar?
 
@@ -45,4 +42,6 @@ Além de trabalhar com análise e ciência de dados, tenho experiência com dese
   <a href="https://instagram.com/n4_th" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:nathan.carlos2@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathan-carlos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://linktr.ee/nathancarlos22" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+
 </div>
