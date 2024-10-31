@@ -1,10 +1,11 @@
 ## Oii, eu sou Nathan 👋
 
-Com bacharelado em Ciência de Dados e Inteligência Artificial pela Universidade Federal da Paraíba, com uma paixão crescente por explorar o mundo da tecnologia e aplicar técnicas de programação, análise de dados e machine learning para resolver problemas complexos. Ao longo da minha jornada, desenvolvi uma variedade de habilidades e técnicas focadas nessas tecnologias, sempre buscando transformar números em insights importantes.
+Com bacharelado em Ciência de Dados e Inteligência Artificial pela Universidade Federal da Paraíba, com uma paixão crescente por explorar o mundo da tecnologia e aplicar técnicas de programação, análise de dados e desenvolvimento. Ao longo da minha jornada, desenvolvi uma variedade de habilidades e técnicas focadas nessas tecnologias, sempre buscando transformar números em insights importantes.
 
 ### 🚀 Habilidades Técnicas
 
 - **Análise de Dados**: Python, Excel, PySpark, SQL, Pandas, NumPy, ETL
+- **Desenvolvimento web**: React.js, HTML5
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras, AutoML, Redes Neurais, Otimização de Hiperparâmetros
 - **Visualização de Dados**: Power BI, Tableau, Matplotlib, Seaborn
 - **Bancos de Dados**: MySQL, PostgreSQL, MongoDB, SQL e NoSQL
@@ -12,7 +13,6 @@ Com bacharelado em Ciência de Dados e Inteligência Artificial pela Universidad
 - **Cloud Computing**: AWS, Docker
 - **Versionamento e Colaboração**: Git, GitHub, Bitbucket
 - **Metodologias Ágeis**: Scrum, Kanban
-- **Front-end web**: React.js, HTML5
 - **Back-end**: Java Spring Boot
 
 ### 🛠️ Ferramentas e Linguagens:
@@ -32,9 +32,8 @@ Com bacharelado em Ciência de Dados e Inteligência Artificial pela Universidad
 
 ### 🌱 Atualmente:
 
-- Explorando novas tecnologias em **Inteligência Artificial** e **Cloud Computing**.
-- Trabalhando em projetos que envolvem automação e visualização de dados.
-- Criando artigos e explorando técnicas nas minhas áreas de atuação.
+- Explorando novas tecnologias em **Inteligência Artificial**.
+- Criando artigos e projetos explorando técnicas nas minhas áreas de atuação (Análise de dados e Desenvolvimento).
 
 ### 📫 Vamos nos conectar?
 
