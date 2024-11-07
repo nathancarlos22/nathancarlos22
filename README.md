@@ -43,6 +43,6 @@ Com bacharelado em Ciência de Dados e Inteligência Artificial pela Universidad
   <a href="https://instagram.com/n4_th" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:nathan.carlos2@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathan-carlos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://linktr.ee/nathancarlos22" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+  <a href="https://nathancarlos22.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 
 </div>
