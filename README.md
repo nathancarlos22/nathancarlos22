@@ -1,5 +1,7 @@
 ## Oii, eu sou Nathan 👋
 
+Veja meu portfólio [aqui](https://nathancarlos22.github.io/portfolio/)
+
 Com bacharelado em Ciência de Dados e Inteligência Artificial pela Universidade Federal da Paraíba, com uma paixão crescente por explorar o mundo da tecnologia e aplicar técnicas de programação, análise de dados e desenvolvimento. Ao longo da minha jornada, desenvolvi uma variedade de habilidades e técnicas focadas nessas tecnologias, sempre buscando transformar números em insights importantes.
 
 ### 🚀 Habilidades Técnicas
