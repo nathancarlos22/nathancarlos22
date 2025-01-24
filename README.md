@@ -6,7 +6,7 @@ Com bacharelado em Ciência de Dados e Inteligência Artificial pela Universidad
 
 ### 🚀 Habilidades Técnicas
 
-- **Análise de Dados**: Python, Excel, PySpark, SQL, Pandas, NumPy, ETL
+- **Análise de Dados**: Python, R, Excel, PySpark, SQL, Pandas, NumPy, ETL
 - **Desenvolvimento web**: React.js, HTML5
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras, AutoML, Redes Neurais, Otimização de Hiperparâmetros
 - **Visualização de Dados**: Power BI, Tableau, Matplotlib, Seaborn
